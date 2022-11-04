@@ -1,8 +1,8 @@
 // 组件写法
 
 import App from '../App'
-import Home from '../components/Home'
-import About from '../components/About'
+import Home from '../view/home'
+import About from '../view/about'
 
 import { BrowserRouter, Routes, Route,Navigate } from 'react-router-dom'
 
